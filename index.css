@@ -1,6 +1,29 @@
 .btn-square {
-  .btn-square {
-  padding: 1rem;
   border-radius: 0;
-  }
+}
+
+.premiere {
+  background-color: #111B47;
+  color: white;
+}
+
+.light {
+  background-color: #E7ECFF;
+}
+
+.text-grey {
+  color: #939EA4;
+}
+
+.text-premiere {
+  color: #111B47;
+}
+
+.margin-y-100px {
+  margin: 0 100px;
+  margin-bottom: 200px;
+}
+
+.margin-x-100px {
+  margin: 0 100px;
 }
